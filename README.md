@@ -1,1 +1,1 @@
-# genetics_of_population
+# Study of microsatellite sequences in the Red fox population
